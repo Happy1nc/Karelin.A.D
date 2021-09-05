@@ -1,0 +1,11 @@
+C:\Users\Антон\source\repos\Toy store\bin\Debug\Toy store.exe.config
+C:\Users\Антон\source\repos\Toy store\bin\Debug\Toy store.exe
+C:\Users\Антон\source\repos\Toy store\bin\Debug\Toy store.pdb
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy store.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy_store.Properties.Resources.resources
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy store.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy store.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy store.exe
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy store.pdb
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy_store.FormMain.resources
+C:\Users\Антон\source\repos\Toy store\obj\Debug\Toy_store.FormStart.resources
