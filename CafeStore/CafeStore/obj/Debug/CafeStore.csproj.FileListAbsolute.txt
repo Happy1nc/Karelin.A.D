@@ -1,0 +1,11 @@
+C:\Users\777\source\repos\CafeStore\CafeStore\bin\Debug\CafeStore.exe.config
+C:\Users\777\source\repos\CafeStore\CafeStore\bin\Debug\CafeStore.exe
+C:\Users\777\source\repos\CafeStore\CafeStore\bin\Debug\CafeStore.pdb
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.csprojAssemblyReference.cache
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.FirstWindow.resources
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.Properties.Resources.resources
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.csproj.GenerateResource.cache
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.exe
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.pdb
+C:\Users\777\source\repos\CafeStore\CafeStore\obj\Debug\CafeStore.InfoWindow.resources
