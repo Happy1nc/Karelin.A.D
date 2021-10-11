@@ -1,0 +1,14 @@
+D:\C#\Project\Calculator\Calculator\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\C#\Project\Calculator\Calculator\WpfApp1\bin\Debug\WpfApp1.exe
+D:\C#\Project\Calculator\Calculator\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\App.g.cs
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\MainWindow.baml
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1.exe
+D:\C#\Project\Calculator\Calculator\WpfApp1\obj\Debug\WpfApp1.pdb
