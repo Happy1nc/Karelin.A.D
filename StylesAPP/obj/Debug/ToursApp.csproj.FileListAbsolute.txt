@@ -18,3 +18,7 @@ C:\Users\Антон\source\repos\StylesAPP\obj\Debug\ToursApp.csproj.CoreCompile
 C:\Users\Антон\source\repos\StylesAPP\obj\Debug\StylesAPP.exe
 C:\Users\Антон\source\repos\StylesAPP\obj\Debug\StylesAPP.pdb
 C:\Users\Антон\source\repos\StylesAPP\obj\Debug\App.baml
+C:\Users\Антон\source\repos\StylesAPP\obj\Debug\AdminPage.g.cs
+C:\Users\Антон\source\repos\StylesAPP\obj\Debug\AdminPage.baml
+C:\Users\Антон\source\repos\StylesAPP\obj\Debug\ManagerPage.g.cs
+C:\Users\Антон\source\repos\StylesAPP\obj\Debug\ManagerPage.baml

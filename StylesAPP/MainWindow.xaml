@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StylesAPP"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Туристическое агенство" Height="450" Width="800" Icon="Resources/Logo.bmp">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="75"/>
@@ -13,10 +13,10 @@
             <RowDefinition Height="30"/>
         </Grid.RowDefinitions>
         <Image Source="Resources/Logo.jpg" HorizontalAlignment="Left"></Image>
-        <TextBlock Text="Header" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <TextBlock Text="Туристическое агенство 2018" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         <Grid Background="#bae3e8" Panel.ZIndex="-2"/>
         <Grid Grid.Row="2" Background="#445c93"/>
         <Frame NavigationUIVisibility="Hidden" ContentRendered="MainFrame_ContentRendered" Grid.Row="1" Name="MainFrame"/>
-        <Button Content="Back" Name="BtnBack" Width="175" Height="30" HorizontalAlignment="Right" Margin="5" Click="BtnBack_Click"/>
+        <Button Content="Выйти" Name="BtnBack" Width="175" Height="30" HorizontalAlignment="Right" Margin="5" Click="BtnBack_Click"/>
     </Grid>
 </Window>

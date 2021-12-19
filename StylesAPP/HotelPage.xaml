@@ -8,7 +8,20 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="HotelPage">
 
-    <Grid>
-        <Button Content="Go" Width="175" Height="30" Click="Button_Click"/>
-    </Grid>
+    <StackPanel>
+        <Label/>
+        <Label Content="Логин" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <TextBox x:Name="Loginbox" Width="175" Height="30"/>
+        <Label Content="Пароль" HorizontalAlignment="Center" FontWeight="Bold"/>
+        <Viewbox Height="60" Margin="312,0" Stretch="Fill">
+            <Grid Height="60" Width="180">
+                <PasswordBox x:Name="Passwordbox" Width="180" PasswordChar="•" Margin="0,0,0,30.2"/>
+                <TextBox x:Name="PasswordUnmask"  Visibility="Hidden" Width="180" Margin="0,0,0,30.2"/>
+            </Grid>
+        </Viewbox>
+        <CheckBox VerticalAlignment="Center" HorizontalAlignment="Center" Content="Показать пароль" Name="ShowPassword" IsChecked="False" Checked="ShowPassword_Checked" Unchecked="ShowPassword_Checked"/>
+        <Label/>
+        <Label/>
+        <Button Content="Войти" Width="175" Height="30" Click="Button_Click"/>
+    </StackPanel>
 </Page>

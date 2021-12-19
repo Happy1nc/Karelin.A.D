@@ -11,5 +11,9 @@
             <Setter Property="FontSize" Value="15"/>
             <Setter Property="Cursor" Value="Hand"/>
         </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
     </Application.Resources>
 </Application>
